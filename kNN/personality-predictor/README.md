@@ -1,7 +1,7 @@
 # 🧠 Personality Predictor (KNN + Random Forest)
 
 This project predicts personality type based on demographic and psychological traits.  
-It uses **K-Nearest Neighbors (KNN)** and **Random Forest** classifiers.
+It uses **K-Nearest Neighbors (KNN)**.
 
 ---
 
@@ -48,4 +48,5 @@ Collect larger, real-world dataset
 Experiment with advanced models (XGBoost, Neural Nets)
 
 👨‍💻 Author
+
 Developed by Yash Dutt
